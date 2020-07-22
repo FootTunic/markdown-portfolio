@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+#Redes Sociais:
+ - [Twitter](https://twitter.com/EduAAPimenta)
+ - [Reddit] (https://www.reddit.com/user/FootTunic)
+ 
