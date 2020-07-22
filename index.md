@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{%[meu perfil do GitHub](https://github.com/FootTunic)%}
+[meu perfil do GitHub](https://github.com/FootTunic)
 
