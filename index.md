@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+{%[meu perfil do GitHub](https://github.com/FootTunic)%}
 
