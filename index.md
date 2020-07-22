@@ -12,4 +12,11 @@ layout: default
 
 ([meu perfil do GitHub](https://github.com/FootTunic))
 
-assim?
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
+
