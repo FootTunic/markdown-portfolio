@@ -1,4 +1,4 @@
 #Redes Sociais:
- - Twitter: @ EduAAPimenta
- - Reddit: r/FootTunic
- - _ye_
+ - [Twitter](https://twitter.com/EduAAPimenta)
+ - [Reddit] (https://www.reddit.com/user/FootTunic)
+ 
