@@ -1,1 +1,10 @@
-Replace this with your name, and include a header.
+# Minha página
+## O cabeçalho funfa
+
+dahora
+o que essas mudanças significam?
+:^|
+~~qq eu faço com isso?~~
+como eu quebro linhas?
+
+###### *pls help*
